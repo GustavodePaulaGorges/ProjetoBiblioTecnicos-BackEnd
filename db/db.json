@@ -1,12 +1,48 @@
 {
-  "categories": [],
-  "publishers": [],
-  "authors": [
+  "categories": [
     {
-      "nome": "12",
-      "idade": 12,
+      "nome": "Romance",
+      "desc": "gênero textual que consiste em uma narrativa longa, escrita em prosa.",
       "id": 1
     }
   ],
-  "books": []
+  "publishers": [
+    {
+      "nome": "Panini",
+      "ano": "1961",
+      "redes": "@Panini",
+      "email": "Panini@gmail.com",
+      "id": 1
+    },
+    {
+      "nome": "AAAAAAAAAAAAAAAAAA",
+      "ano": 1955,
+      "redes": "@AAAAAA...",
+      "email": "AAAAAAA@gmail.com",
+      "id": 2
+    },
+    {
+      "nome": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "id": 3
+    }
+  ],
+  "authors": [
+    {
+      "nome": "Miyamoto Musashi",
+      "idade": 61,
+      "nacionalidade": "Japones",
+      "id": 3
+    }
+  ],
+  "books": [
+    {
+      "nome": "AAA",
+      "data": 1212,
+      "preco": 1212,
+      "qtd": 1212,
+      "editora": "AAAAAAAAAAAAAAAAAA",
+      "autor": "Miyamoto Musashi",
+      "id": 1
+    }
+  ]
 }
